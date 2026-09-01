@@ -250,16 +250,7 @@ The website provides a central platform where learners can explore different opp
 ---
 
 ## SITE MAP
-```mermaid
-flowchart TD
-    A[Home<br>index.html]
 
-    A --> B[About Us<br>about.html]
-    A --> C[Volunteer Opportunities<br>services.html]
-    A --> D[Enquiry<br>enquiry.html]
-    A --> E[Contact<br>contact.html]
-    A --> F[FAQ<br>faq.html]
-    A --> G[Volunteer Resources<br>resources.html]
 The Community Connect SA website is organised into seven main pages, each serving a specific purpose:
 
 Home – Introduces Community Connect SA and highlights volunteer opportunities.
@@ -269,6 +260,79 @@ Enquiry – Provides an online form for learners and organisations to submit enq
 Contact – Displays contact details, office information and map locations.
 FAQ – Answers common questions using expandable sections.
 Volunteer Resources – Provides useful volunteering tips, checklists and preparation guidance.
+
+Changelog
+
+All notable changes made to the Community Connect SA Website are documented in this file.
+
+[1.0.0] – 29 August 2026
+Started creating code in note++ before I
+
+Created the initial Community Connect SA website structure.
+Added the Home page.
+Added the About Us page.
+Added the Volunteer Opportunities page.
+Added the Enquiry page.
+Added the Contact page.
+Added the FAQ page.
+Added the Volunteer Resources page.
+Added navigation links between all website pages.
+Added community service opportunity categories.
+Added enquiry form fields for learners and organisations.
+Added contact information and map sections.
+Added frequently asked questions using HTML <details> and <summary> elements.
+Added volunteer preparation resources and checklist.
+Created the initial CSS stylesheet.
+Added responsive design using CSS media queries.
+Added JavaScript functionality for website interaction.
+[1.1.0] – 30 August 2026
+Changed
+Improved the overall website layout and page structure.
+Updated the navigation menu for easier access to website pages.
+Improved spacing, typography and headings.
+Updated the colour scheme for a more consistent visual design.
+Improved the presentation of volunteer opportunity cards.
+Improved the enquiry form layout.
+Improved mobile responsiveness.
+Updated images and page content.
+Improved consistency between the different pages.
+Fixed
+Fixed broken navigation links.
+Fixed layout issues on smaller screens.
+Fixed spacing and alignment problems.
+Fixed JavaScript form interaction issues.
+Corrected spelling and content errors.
+[1.2.0] – 31 August 2026
+Added
+Added additional volunteer opportunities.
+Added improved FAQ content.
+Added additional volunteer resources.
+Added responsive navigation improvements.
+Added final website documentation.
+Added sitemap and wireframe planning documentation.
+Changed
+Refined the Home page hero section.
+Improved call-to-action buttons.
+Improved page headings and section layouts.
+Updated content to better target high school learners.
+Improved accessibility and readability.
+Testing
+Tested all website navigation links.
+Tested the enquiry form.
+Tested FAQ expandable sections.
+Tested the website on different screen sizes.
+Checked images and page formatting.
+Corrected remaining HTML, CSS and JavaScript errors.
+[1.3.0] – 1 September 2026
+Final Updates
+Completed the final website structure.
+Completed responsive design improvements.
+Completed content updates across all pages.
+Finalised the README documentation.
+Added README.md to the project repository.
+Added CHANGELOG.md to document project development.
+Performed final testing of all website pages.
+Prepared the project for submission and presentation.
 ## **References**
 •	JWD. n.d. Domain Checker | Check .co.za Domain Availability | JWD. [online] Available at: https://www.jwd.co.za/ [Accessed 14 August 2026].  
 •	Jessel Sookha. n.d. Colour Scheme Generator. [online] Available at: https://jesselsookha.github.io/colour-scheme-generator/ [Accessed 14 August 2026].  
