@@ -250,7 +250,16 @@ The website provides a central platform where learners can explore different opp
 ---
 
 ## SITE MAP
-<img src = >
+```mermaid
+flowchart TD
+    A[Home<br>index.html]
+
+    A --> B[About Us<br>about.html]
+    A --> C[Volunteer Opportunities<br>services.html]
+    A --> D[Enquiry<br>enquiry.html]
+    A --> E[Contact<br>contact.html]
+    A --> F[FAQ<br>faq.html]
+    A --> G[Volunteer Resources<br>resources.html]
 The Community Connect SA website is organised into seven main pages, each serving a specific purpose:
 
 Home – Introduces Community Connect SA and highlights volunteer opportunities.
@@ -266,11 +275,11 @@ Volunteer Resources – Provides useful volunteering tips, checklists and prepar
 •	Domains.co.za. n.d. No Fixed Contract. [online] Available at: https://www.domains.co.za/knowledgebase/billing/no-fixed-contract/ [Accessed 14 August 2026]. 
 •	Department of Social Development. n.d. Nonprofit Organisations. [online] Available at: https://www.dsd.gov.za/index.php/npo/about-us [Accessed 25 August 2026].
 •	• Department of Social Development. n.d. NPO Search. [online] Available at: https://www.dsd.gov.za/index.php/npo/search [Accessed 25 August 2026].
-•	• forGood. n.d. Volunteer Opportunities. [online] Available at: https://www.forgood.co.za/ [Accessed 26 August 2026].
-•	• Community Hours. n.d. Community Hours South Africa. [online] Available at: https://communityhours.co.za/ [Accessed 26 August 2026].
-•	• EPIC Foundation. n.d. Volunteer Applications. [online] Available at: https://www.epicfoundation.org.za/web/volunteer-applications.asp [Accessed 27 August 2026].
-•	• UNICEF South Africa. n.d. Volunteer Programme. [online] Available at: https://www.unicef.org/southafrica/volunteer [Accessed 27 August 2026].
-•	• Creative Commons. n.d. Creative Commons Search. [online] Available at: https://search.creativecommons.org/ [Accessed 28 August 2026].
-•	• Unsplash. n.d. Unsplash License. [online] Available at: https://unsplash.com/license [Accessed 28 August 2026].
-•	• Google. n.d. Google Fonts. [online] Available at: https://developers.google.com/fonts [Accessed 29 August 2026].
+	• forGood. n.d. Volunteer Opportunities. [online] Available at: https://www.forgood.co.za/ [Accessed 26 August 2026].
+	• Community Hours. n.d. Community Hours South Africa. [online] Available at: https://communityhours.co.za/ [Accessed 26 August 2026].
+	• EPIC Foundation. n.d. Volunteer Applications. [online] Available at: https://www.epicfoundation.org.za/web/volunteer-applications.asp [Accessed 27 August 2026].
+	• UNICEF South Africa. n.d. Volunteer Programme. [online] Available at: https://www.unicef.org/southafrica/volunteer [Accessed 27 August 2026].
+	• Creative Commons. n.d. Creative Commons Search. [online] Available at: https://search.creativecommons.org/ [Accessed 28 August 2026].
+	• Unsplash. n.d. Unsplash License. [online] Available at: https://unsplash.com/license [Accessed 28 August 2026].
+	• Google. n.d. Google Fonts. [online] Available at: https://developers.google.com/fonts [Accessed 29 August 2026].
 
