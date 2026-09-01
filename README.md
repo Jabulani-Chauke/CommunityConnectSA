@@ -261,3 +261,16 @@ Contact – Displays contact details, office information and map locations.
 FAQ – Answers common questions using expandable sections.
 Volunteer Resources – Provides useful volunteering tips, checklists and preparation guidance.
 ## **References**
+•	JWD. n.d. Domain Checker | Check .co.za Domain Availability | JWD. [online] Available at: https://www.jwd.co.za/ [Accessed 14 August 2026].  
+•	Jessel Sookha. n.d. Colour Scheme Generator. [online] Available at: https://jesselsookha.github.io/colour-scheme-generator/ [Accessed 14 August 2026].  
+•	Domains.co.za. n.d. No Fixed Contract. [online] Available at: https://www.domains.co.za/knowledgebase/billing/no-fixed-contract/ [Accessed 14 August 2026]. 
+•	Department of Social Development. n.d. Nonprofit Organisations. [online] Available at: https://www.dsd.gov.za/index.php/npo/about-us [Accessed 25 August 2026].
+•	• Department of Social Development. n.d. NPO Search. [online] Available at: https://www.dsd.gov.za/index.php/npo/search [Accessed 25 August 2026].
+•	• forGood. n.d. Volunteer Opportunities. [online] Available at: https://www.forgood.co.za/ [Accessed 26 August 2026].
+•	• Community Hours. n.d. Community Hours South Africa. [online] Available at: https://communityhours.co.za/ [Accessed 26 August 2026].
+•	• EPIC Foundation. n.d. Volunteer Applications. [online] Available at: https://www.epicfoundation.org.za/web/volunteer-applications.asp [Accessed 27 August 2026].
+•	• UNICEF South Africa. n.d. Volunteer Programme. [online] Available at: https://www.unicef.org/southafrica/volunteer [Accessed 27 August 2026].
+•	• Creative Commons. n.d. Creative Commons Search. [online] Available at: https://search.creativecommons.org/ [Accessed 28 August 2026].
+•	• Unsplash. n.d. Unsplash License. [online] Available at: https://unsplash.com/license [Accessed 28 August 2026].
+•	• Google. n.d. Google Fonts. [online] Available at: https://developers.google.com/fonts [Accessed 29 August 2026].
+
