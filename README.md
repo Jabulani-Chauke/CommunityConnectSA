@@ -261,7 +261,7 @@ Contact – Displays contact details, office information and map locations.
 FAQ – Answers common questions using expandable sections.
 Volunteer Resources – Provides useful volunteering tips, checklists and preparation guidance.
 
-Changelog
+## Changelog
 
 All notable changes made to the Community Connect SA Website are documented in this file.
 
