@@ -333,6 +333,17 @@ Added README.md to the project repository.
 Added CHANGELOG.md to document project development.
 Performed final testing of all website pages.
 Prepared the project for submission and presentation.
+- 1 October
+Improved the About Us page with additional information about the organisation.
+Added Programme Coordinator, Volunteer Coordinator and Community Outreach Officer profiles.
+Added information explaining how community workers and organisations can participate.
+
+- 2 October
+Added code to styles.css
+
+-3 October
+CSS code and fixed refrencing links to other pages
+Improved the presentation of volunteer opportunities.
 ## **References**
 •	JWD. n.d. Domain Checker | Check .co.za Domain Availability | JWD. [online] Available at: https://www.jwd.co.za/ [Accessed 14 August 2026].  
 •	Jessel Sookha. n.d. Colour Scheme Generator. [online] Available at: https://jesselsookha.github.io/colour-scheme-generator/ [Accessed 14 August 2026].  
