@@ -21,18 +21,40 @@
 
     <nav class="navbar">
 
-        <a href="index.html" class="logo">
+        <!-- Logo -->
+        <a href="../index.html" class="logo">
             Community Connect SA
         </a>
 
+
+        <!-- Navigation -->
         <ul class="nav-links">
 
-             <li><a href="../index.html">Home</a></li>
-            <li><a href="about.html">About Us</a></li>
-            <li><a href="services.html">Opportunities</a></li>
-            <li><a href="enquiry.html">Enquiry</a></li>
-            <li><a href="contact.html">Contact</a></li>
-            <li><a href="faq.html">FAQ</a></li>
+            <li>
+                <a href="../index.html">Home</a>
+            </li>
+
+            <li>
+                <a href="about.html">About Us</a>
+            </li>
+
+            <li>
+                <a href="services.html">Opportunities</a>
+            </li>
+
+            <li>
+                <a href="enquiry.html" class="active">
+                    Enquiry
+                </a>
+            </li>
+
+            <li>
+                <a href="contact.html">Contact</a>
+            </li>
+
+            <li>
+                <a href="faq.html">FAQ</a>
+            </li>
 
         </ul>
 
@@ -43,96 +65,135 @@
 
 <main>
 
+    <!-- Enquiry Hero -->
     <section class="page-header">
 
         <h1>Make an Enquiry</h1>
 
         <p>
-            Complete the form and we will get
-            back to you as soon as possible.
+            Complete the form and we will get back to you
+            as soon as possible.
         </p>
 
     </section>
 
 
+    <!-- Enquiry Form Section -->
     <section class="form-section">
 
         <form id="enquiryForm">
 
-            <label for="name">
-                Full Name
-            </label>
+            <!-- Full Name -->
+            <div class="form-group">
 
-            <input
-                type="text"
-                id="name"
-                name="name"
-                required
+                <label for="name">
+                    Full Name
+                </label>
+
+                <input
+                    type="text"
+                    id="name"
+                    name="name"
+                    required
+                >
+
+            </div>
+
+
+            <!-- Email -->
+            <div class="form-group">
+
+                <label for="email">
+                    Email Address
+                </label>
+
+                <input
+                    type="email"
+                    id="email"
+                    name="email"
+                    required
+                >
+
+            </div>
+
+
+            <!-- Phone -->
+            <div class="form-group">
+
+                <label for="phone">
+                    Phone Number
+                </label>
+
+                <input
+                    type="tel"
+                    id="phone"
+                    name="phone"
+                    placeholder=""
+                >
+
+            </div>
+
+
+            <!-- Enquiry Type -->
+            <div class="form-group">
+
+                <label for="type">
+                    Enquiry Type
+                </label>
+
+                <select
+                    id="type"
+                    name="type"
+                    required
+                >
+
+                    <option value="" disabled selected>
+                        Select an enquiry type
+                    </option>
+
+                    <option value="volunteer">
+                        Volunteer Opportunity
+                    </option>
+
+                    <option value="sponsorship">
+                        Sponsorship
+                    </option>
+
+                    <option value="partnership">
+                        Organisation Partnership
+                    </option>
+
+                    <option value="general">
+                        General Enquiry
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <!-- Message -->
+            <div class="form-group">
+
+                <label for="message">
+                    Message
+                </label>
+
+                <textarea
+                    id="message"
+                    name="message"
+                    rows="6"
+                    required
+                ></textarea>
+
+            </div>
+
+
+            <!-- Submit Button -->
+            <button
+                type="submit"
+                class="btn"
             >
-
-
-            <label for="email">
-                Email Address
-            </label>
-
-            <input
-                type="email"
-                id="email"
-                name="email"
-                required
-            >
-
-
-            <label for="phone">
-                Phone Number
-            </label>
-
-            <input
-                type="tel"
-                id="phone"
-                name="phone"
-            >
-
-
-            <label for="type">
-                Enquiry Type
-            </label>
-
-            <select id="type" name="type">
-
-                <option>
-                    Volunteer Opportunity
-                </option>
-
-                <option>
-                    Sponsorship
-                </option>
-
-                <option>
-                    Organisation Partnership
-                </option>
-
-                <option>
-                    General Enquiry
-                </option>
-
-            </select>
-
-
-            <label for="message">
-                Message
-            </label>
-
-            <textarea
-                id="message"
-                name="message"
-                rows="6"
-                required>
-            </textarea>
-
-
-            <button type="submit"
-                    class="btn">
                 Submit Enquiry
             </button>
 
@@ -146,14 +207,16 @@
 <footer>
 
     <div class="copyright">
+
         &copy; 2026 Community Connect SA.
         All rights reserved.
+
     </div>
 
 </footer>
 
 
-<script src="js/script.js"></script>
+<script src="../js/script.js"></script>
 
 </body>
 
