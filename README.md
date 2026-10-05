@@ -333,6 +333,8 @@ Added README.md to the project repository.
 Added CHANGELOG.md to document project development.
 Performed final testing of all website pages.
 Prepared the project for submission and presentation.
+
+** FOR PART 2:**
 - 1 October
 Improved the About Us page with additional information about the organisation.
 Added Programme Coordinator, Volunteer Coordinator and Community Outreach Officer profiles.
@@ -344,6 +346,15 @@ Added code to styles.css
 -3 October
 CSS code and fixed refrencing links to other pages
 Improved the presentation of volunteer opportunities.
+
+4 October 2026 — Enquiry Page
+Updated the Enquiry page to better match the provided wireframe.
+Created a more structured enquiry form layout.
+Added/adjusted sections for the enquiry information.
+Updated the page styling to follow the wireframe.
+Maintained the original green hero section rather than replacing it.
+Added CSS specifically for the updated enquiry layout.
+Worked toward matching the wireframe's spacing, form arrangement and visual hierarchy.
 ## **References**
 •	JWD. n.d. Domain Checker | Check .co.za Domain Availability | JWD. [online] Available at: https://www.jwd.co.za/ [Accessed 14 August 2026].  
 •	Jessel Sookha. n.d. Colour Scheme Generator. [online] Available at: https://jesselsookha.github.io/colour-scheme-generator/ [Accessed 14 August 2026].  
@@ -358,3 +369,16 @@ Improved the presentation of volunteer opportunities.
 	• Unsplash. n.d. Unsplash License. [online] Available at: https://unsplash.com/license [Accessed 28 August 2026].
 	• Google. n.d. Google Fonts. [online] Available at: https://developers.google.com/fonts [Accessed 29 August 2026].
 
+	**FOR PART 2:**
+
+Skylight Views, 2025. Cultural celebration in Kano, Nigeria [electronic print]. Available at: Photo by Skylight Views from Pexels: https://www.pexels.com/photo/cultural-celebration-in-kano-nigeria-34735506/ [Accessed 1 October 2026].
+
+Gariev, V., 2025. Volunteers cleaning riverbank to save environment [electronic print]. Available at: Photo by Vitaly Gariev from Pexels: https://www.pexels.com/photo/volunteers-cleaning-riverbank-to-save-environment-36713499/ [Accessed 2 October 2026].
+
+This And No Internet 25, 2025. Students attending class at international school [electronic print]. Available at: Photo by This And No Internet 25 from Pexels: https://www.pexels.com/photo/students-attending-class-at-international-school-29659894/ [Accessed 2 October 2026].
+
+Nothing Ahead, 2022. Close-up shot of a woman holding a plant [electronic print]. Available at: Photo by Nothing Ahead from Pexels: https://www.pexels.com/photo/close-up-shot-of-a-woman-holding-a-plant-7538371/ [Accessed 2 October 2026].
+
+RDNE Stock project, 2024. Man in white crew neck T-shirt holding brown box [electronic print]. Available at: Photo by RDNE Stock project from Pexels: https://www.pexels.com/photo/man-in-white-crew-neck-t-shirt-holding-brown-box-6646886/ [Accessed 5 October 2026].
+
+RDNE Stock project, 2024. A woman standing beside the white van carrying a brown box [electronic print]. Available at: Photo by RDNE Stock project from Pexels: https://www.pexels.com/photo/a-woman-standing-beside-the-white-van-carrying-a-brown-box-6646893/ [Accessed 5 October 2026].
