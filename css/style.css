@@ -289,6 +289,14 @@ section {
 
     transition: 0.3s ease;
 }
+/* Opportunity card images */
+.opportunity-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    border-radius: 8px;
+}
 
 .card:hover {
     transform: translateY(-5px);
@@ -638,7 +646,7 @@ footer {
 }
 
 
-   SOCIAL MEDIA
+   /*SOCIAL MEDIA
    */
 
 .social-links {
@@ -1018,5 +1026,342 @@ table tr:nth-child(even) {
     color: #333333;
 }
 
+
+/* new Css for the ABOUT US PAGE */
+
+.page-header {
+    background-color: #9ab18a;
+    color: #285b0b;
+    min-height: 190px;
+    padding: 35px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.page-header h1 {
+    font-size: 2.2rem;
+    margin: 0 0 10px;
+}
+
+.page-header p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+/* About the Organisation */
+
+.about-section {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: center;
+    gap: 45px;
+    padding: 45px 5%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.about-image img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    border-radius: 8px;
+}
+
+.about-text h2,
+.mission-card h2 {
+    color: #285b0b;
+    font-size: 1.7rem;
+    margin: 0 0 12px;
+}
+
+.about-text p,
+.mission-card p {
+    line-height: 1.7;
+    margin: 0 0 12px;
+    color: #444;
+}
+
+/* Mission and Vision */
+
+.mission-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 25px;
+    padding: 10px 5% 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.mission-card {
+    padding: 25px;
+    background-color: #f1f6ee;
+    border-radius: 8px;
+    border-left: 4px solid #285b0b;
+}
+
+.mission-card p {
+    margin-bottom: 0;
+}
+
+/* Organisational Values */
+
+.values-section {
+    padding: 35px 5% 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.values-section > h2,
+.team-heading h2 {
+    text-align: center;
+    color: #285b0b;
+    margin: 0 0 15px;
+    font-size: 1.8rem;
+}
+
+.values-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 30px 45px;
+    margin-top: 30px;
+}
+
+.value-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+}
+
+.value-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 38px;
+    height: 38px;
+    border: 2px solid #285b0b;
+    border-radius: 50%;
+    color: #285b0b;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.value-item h3 {
+    color: #285b0b;
+    margin: 0 0 7px;
+    font-size: 1.1rem;
+}
+
+.value-item p {
+    color: #555;
+    line-height: 1.6;
+    margin: 0;
+}
+
+/* Meet Our Team */
+
+.team-section {
+    background-color: #f5f7f2;
+    padding: 45px 5% 55px;
+}
+
+.team-heading {
+    max-width: 700px;
+    margin: 0 auto 35px;
+    text-align: center;
+}
+
+.team-heading p {
+    color: #555;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 25px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.team-card {
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+}
+
+.team-card img {
+    width: 100%;
+    height: 230px;
+    object-fit: cover;
+    display: block;
+}
+
+.team-info {
+    padding: 22px;
+}
+
+.team-info h3 {
+    color: #285b0b;
+    font-size: 1.2rem;
+    margin: 0 0 8px;
+}
+
+.team-role {
+    color: #687e5d;
+    font-weight: bold;
+    font-size: 0.9rem;
+    margin: 0 0 12px;
+}
+
+.team-info p:last-child {
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 0;
+}
+
+/* Call to Action */
+
+.about-cta {
+    background-color: #e8efe3;
+    padding: 45px 20px;
+    text-align: center;
+}
+
+.about-cta h2 {
+    color: #285b0b;
+    margin: 0 0 12px;
+}
+
+.about-cta p {
+    color: #444;
+    line-height: 1.6;
+    max-width: 650px;
+    margin: 0 auto 22px;
+}
+
+.about-cta-button {
+    display: inline-block;
+    background-color: #285b0b;
+    color: #fff;
+    padding: 12px 24px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.2s ease;
+}
+
+.about-cta-button:hover {
+    background-color: #1d4208;
+}
+
+.about-cta-button:focus-visible {
+    outline: 3px solid #285b0b;
+    outline-offset: 4px;
+}
+
+/* Footer */
+
+.about-footer {
+    background-color: #285b0b;
+    color: #fff;
+    padding: 25px 20px;
+    text-align: center;
+}
+
+.about-footer .copyright {
+    margin: 0;
+    line-height: 1.6;
+}
+
+/* Responsive Layout */
+
+@media (max-width: 768px) {
+    .about-section {
+        grid-template-columns: 1fr;
+        gap: 25px;
+        padding: 30px 6%;
+    }
+
+    .about-image img {
+        height: 260px;
+    }
+
+    .mission-grid {
+        grid-template-columns: 1fr;
+        padding: 10px 6% 30px;
+    }
+
+    .values-grid {
+        grid-template-columns: 1fr;
+        gap: 25px;
+    }
+
+    .values-section {
+        padding: 30px 6%;
+    }
+
+    .team-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .team-section {
+        padding: 35px 6%;
+    }
+
+    .team-card img {
+        height: 210px;
+    }
+
+    .page-header {
+        min-height: 150px;
+    }
+
+    .page-header h1 {
+        font-size: 1.8rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .navbar {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .nav-links {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 12px;
+        padding: 0;
+    }
+
+    .about-text h2,
+    .mission-card h2 {
+        font-size: 1.4rem;
+    }
+
+    .about-image img {
+        height: 210px;
+    }
+
+    .team-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .team-card img {
+        height: 240px;
+    }
+
+    .values-section > h2,
+    .team-heading h2 {
+        font-size: 1.5rem;
+    }
+}
 
 
