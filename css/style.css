@@ -1363,5 +1363,28 @@ table tr:nth-child(even) {
         font-size: 1.5rem;
     }
 }
+/* Button Styling */
+.btn {
+    display: inline-block;
+    background-color: #245900;
+    color: #ffffff;
+    padding: 8px 20px;
+    text-decoration: none;
+    border: none;
+    border-radius: 0;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
 
+/* Button Hover Effect */
+.btn:hover {
+    background-color: #173b00;
+    color: #ffffff;
+}
+
+/* Button Active Effect */
+.btn:active {
+    background-color: #102900;
+}
 
