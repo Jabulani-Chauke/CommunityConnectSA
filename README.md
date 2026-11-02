@@ -355,6 +355,24 @@ Updated the page styling to follow the wireframe.
 Maintained the original green hero section rather than replacing it.
 Added CSS specifically for the updated enquiry layout.
 Worked toward matching the wireframe's spacing, form arrangement and visual hierarchy.
+
+** FOR Final POE:**
+
+Updated the Contact Us page layout to match the wireframe design.
+
+Added Google Maps embeds for the Johannesburg and Pretoria office locations.
+
+Improved the alignment of contact information and office details.
+
+Added map containers with responsive styling.
+
+Styled the Contact Form button with a dark green background and white text.
+
+Added hover and active effects to buttons.
+
+Improved the responsive layout for mobile devices.
+
+Updated CSS styling for consistent website design.
 ## **References**
 •	JWD. n.d. Domain Checker | Check .co.za Domain Availability | JWD. [online] Available at: https://www.jwd.co.za/ [Accessed 14 August 2026].  
 •	Jessel Sookha. n.d. Colour Scheme Generator. [online] Available at: https://jesselsookha.github.io/colour-scheme-generator/ [Accessed 14 August 2026].  
