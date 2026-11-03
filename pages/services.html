@@ -61,19 +61,26 @@
     <section class="section">
 
         <!-- Search -->
-        <div class="search-box">
-
-            <input
-                type="text"
-                id="opportunitySearch"
-                placeholder="Search opportunities..."
-            >
-
-            <button onclick="searchOpportunities()">
-                Search
-            </button>
-
+        <div class="opportunity-tools">
+            <label class="visually-hidden" for="opportunitySearch">Search volunteer opportunities</label>
+            <input type="search" id="opportunitySearch" placeholder="Search opportunities..." aria-label="Search opportunities">
+            <label class="visually-hidden" for="categoryFilter">Filter by category</label>
+            <select id="categoryFilter" aria-label="Filter opportunities by category">
+                <option value="all">All categories</option>
+                <option value="animals">Animal welfare</option>
+                <option value="environment">Environment</option>
+                <option value="health">Healthcare</option>
+                <option value="education">Education</option>
+                <option value="community">Community support</option>
+            </select>
+            <select id="opportunitySort" aria-label="Sort opportunities">
+                <option value="az">Sort: A to Z</option>
+                <option value="za">Sort: Z to A</option>
+            </select>
         </div>
+        <p id="opportunityCount" class="results-count" aria-live="polite"></p>
+        <div class="card-grid" id="opportunityList" aria-live="polite"></div>
+
 
 
         <!-- Opportunity Cards -->
