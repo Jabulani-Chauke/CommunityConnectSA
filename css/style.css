@@ -1387,4 +1387,162 @@ table tr:nth-child(even) {
 .btn:active {
     background-color: #102900;
 }
+/* JAVASCRIPT FUNCTIONALITY*/
+.opportunity-tools {
+    display: grid;
+    grid-template-columns: minmax(220px, 2fr) minmax(160px, 1fr) minmax(150px, 1fr);
+    gap: 12px;
+    max-width: 1100px;
+    margin: 0 auto 12px;
+    padding: 0 20px;
+}
+.opportunity-tools input,
+.opportunity-tools select {
+    width: 100%;
+    min-height: 44px;
+    padding: 10px 14px;
+    border: 1px solid #b8c2b2;
+    border-radius: 5px;
+    background: #fff;
+    font: inherit;
+}
+.results-count {
+    max-width: 1100px;
+    margin: 0 auto 18px;
+    padding: 0 20px;
+    color: #4c5d45;
+}
+.empty-results {
+    grid-column: 1 / -1;
+    padding: 24px;
+    text-align: center;
+    background: #f1f6ee;
+    border-radius: 6px;
+}
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+.card,
+.opportunity-card,
+.team-card,
+.btn,
+.nav-links a {
+    transition: transform .2s ease, box-shadow .2s ease, background-color .2s ease;
+}
+.card:hover,
+.opportunity-card:hover,
+.team-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 22px rgba(0, 0, 0, .12);
+}
+img.lightbox-image,
+.opportunity-card img,
+.team-card img,
+.about-image img {
+    cursor: zoom-in;
+}
+.image-lightbox {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    inset: 0;
+    padding: 55px 20px 25px;
+    background: rgba(0, 0, 0, .88);
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.image-lightbox.is-open {
+    display: flex;
+}
+.image-lightbox img {
+    max-width: min(92vw, 1100px);
+    max-height: 78vh;
+    object-fit: contain;
+    border-radius: 5px;
+    cursor: default;
+}
+.lightbox-caption {
+    color: #fff;
+    text-align: center;
+    margin: 12px 0 0;
+}
+.lightbox-close {
+    position: absolute;
+    top: 12px;
+    right: 22px;
+    color: #fff;
+    background: transparent;
+    border: 0;
+    font-size: 2.5rem;
+    cursor: pointer;
+}
+.form-feedback {
+    margin-top: 16px;
+    padding: 12px 15px;
+    border-left: 4px solid #295B01;
+    background: #edf5e8;
+    color: #234b10;
+    line-height: 1.5;
+}
+.map-placeholder {
+    width: 100%;
+    min-height: 280px;
+    overflow: hidden;
+    border-radius: 6px;
+}
+.map-placeholder iframe {
+    display: block;
+    width: 100%;
+    height: 280px;
+    border: 0;
+}
+.faq-section details {
+    margin: 12px auto;
+    max-width: 900px;
+    padding: 16px 20px;
+    border: 1px solid #d7dfd2;
+    border-radius: 6px;
+    background: #fff;
+}
+.faq-section summary {
+    color: #285b0b;
+    font-weight: 700;
+    cursor: pointer;
+}
+.faq-section details p {
+    line-height: 1.65;
+}
+html {
+    scroll-behavior: smooth;
+}
+:focus-visible {
+    outline: 3px solid #d6a92d;
+    outline-offset: 3px;
+}
+@media (max-width: 700px) {
+    .opportunity-tools {
+        grid-template-columns: 1fr;
+        padding: 0 6%;
+    }
+    .results-count {
+        padding: 0 6%;
+    }
+}
+@media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+        scroll-behavior: auto !important;
+        transition-duration: .01ms !important;
+        animation-duration: .01ms !important;
+    }
+}
+
 
