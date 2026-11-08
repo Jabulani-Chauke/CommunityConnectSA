@@ -1544,5 +1544,45 @@ html {
         animation-duration: .01ms !important;
     }
 }
+/* Mobile phones */
+@media screen and (max-width: 480px) {
 
+    /* Headings */
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 23px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    /* Navigation */
+    nav ul {
+        flex-direction: column;
+        padding: 0;
+    }
+
+    /* Opportunity cards */
+    .opportunity-container {
+        grid-template-columns: 1fr;
+    }
+
+    /* Buttons */
+    button,
+    .btn,
+    a.button {
+        width: 100%;
+        text-align: center;
+    }
+
+    /* General layout */
+    section {
+        padding: 20px 10px;
+    }
+
+}
 
