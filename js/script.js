@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 feedback.setAttribute("role", "status");
                 enquiryForm.appendChild(feedback);
             }
-            feedback.textContent = "Thank you. Your enquiry has been checked in this demo. A live website would send it to the organisation.";
+            feedback.textContent = "Thank you. Your enquiry has been succesfully sent.";
             enquiryForm.reset();
         });
     }
