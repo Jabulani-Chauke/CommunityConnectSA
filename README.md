@@ -153,6 +153,25 @@ Responsive features include:
 | `resources.html` | Volunteer Resources        |
 
 ---
+## Screenshots
+<img width="1731" height="2717" alt="IndexPage" src="https://github.com/user-attachments/assets/c528938a-f2aa-4109-9b3e-9f80e7496903" />
+*Caption for screenshot 1: [The home/Index page for website]*
+<img width="1731" height="3285" alt="ABoutUS" src="https://github.com/user-attachments/assets/2fcccc6f-a1b5-4868-acc2-641de0ef777b" />
+*Caption for screenshot 2: [About Us Page]*
+<img width="1731" height="10952" alt="Servicesoppurtinty" src="https://github.com/user-attachments/assets/6ba07739-c381-4731-a3a0-4c27ec1af42d" />
+*Caption for screenshot 3: [ Volunteer Opportunities Page]*
+<img width="1502" height="1731" alt="Enquiry" src="https://github.com/user-attachments/assets/8b930ba2-fb92-4404-a428-ff9c911ac751" />
+*Caption for screenshot 4: [Enquiry Page]*
+<img width="1955" height="1731" alt="Contact" src="https://github.com/user-attachments/assets/34e1be12-c01c-4d2c-9da2-67a12f2a9824" />
+*Caption for screenshot 5: [Contact Page]*
+<img width="1178" height="1731" alt="Closedfaq" src="https://github.com/user-attachments/assets/85f7c323-8c0d-46a5-924a-d29693423e9a" />
+*Caption for screenshot 6: [ FAQ Page (Collapsed View)]*
+<img width="1360" height="1731" alt="FAQOPEN" src="https://github.com/user-attachments/assets/16107d4a-c6a4-4564-89f8-c9c49a9bf004" />
+*Caption for screenshot 7: [FAQ Page (Expanded View)]*
+<img width="1731" height="800" alt="404" src="https://github.com/user-attachments/assets/4968a022-b7f1-4f61-a6c7-be4c37ae621f" />
+*Caption for screenshot 8: [404 Error Page]*
+
+
 
 ## Technologies Used
 
@@ -195,21 +214,36 @@ Used for version control, project management and submitting the website project.
 CommunityConnectSA/
 │
 ├── index.html
-├── about.html
-├── services.html
-├── enquiry.html
-├── contact.html
-├── faq.html
-├── resources.html
+├── sitemap.xml
+├── robots.txt
+├── README.md
 │
 ├── css/
 │   └── style.css
 │
 ├── js/
-│   └── script.js
+│   ├── script.js
+│   └── validation.js
 │
-└── images/
-└── README.md
+├── images/
+│   ├── community.jpg
+│   ├── team1.jpg
+│   ├── team2.jpg
+│   ├── team3.jpg
+│   ├── environment.jpg
+│   └── logo.png
+│
+├── pages/
+│   ├── about.html
+│   ├── services.html
+│   ├── enquiry.html
+│   ├── contact.html
+│   ├── faq.html
+│   └── resources.html
+│
+└── .github/
+└── └── workflows/
+    └── └── static.yml
 ```
 
 ---
