@@ -347,14 +347,7 @@ Added code to styles.css
 CSS code and fixed refrencing links to other pages
 Improved the presentation of volunteer opportunities.
 
-4 October 2026 — Enquiry Page
-Updated the Enquiry page to better match the provided wireframe.
-Created a more structured enquiry form layout.
-Added/adjusted sections for the enquiry information.
-Updated the page styling to follow the wireframe.
-Maintained the original green hero section rather than replacing it.
-Added CSS specifically for the updated enquiry layout.
-Worked toward matching the wireframe's spacing, form arrangement and visual hierarchy.
+
 
 ** FOR Final POE:**
 
@@ -373,12 +366,28 @@ Added hover and active effects to buttons.
 Improved the responsive layout for mobile devices.
 
 Updated CSS styling for consistent website design.
+
+ 5-8 November
+ 
+ Added JavaScript code to cleanup some CSS elements
+ 
+ Tested website functions
+ 
+ Created a new Public repo to publish website under the GitHub pages function 
+ 
+Added a robots.txt file to provide search engine crawlers with website access instructions.
+
+Created a sitemap.xml file to help search engines discover the website's pages.
+Created a 404.html
+
+Improved SEO by including relevant keywords and South African community service information.
+ 
 ## **References**
-•	JWD. n.d. Domain Checker | Check .co.za Domain Availability | JWD. [online] Available at: https://www.jwd.co.za/ [Accessed 14 August 2026].  
-•	Jessel Sookha. n.d. Colour Scheme Generator. [online] Available at: https://jesselsookha.github.io/colour-scheme-generator/ [Accessed 14 August 2026].  
-•	Domains.co.za. n.d. No Fixed Contract. [online] Available at: https://www.domains.co.za/knowledgebase/billing/no-fixed-contract/ [Accessed 14 August 2026]. 
-•	Department of Social Development. n.d. Nonprofit Organisations. [online] Available at: https://www.dsd.gov.za/index.php/npo/about-us [Accessed 25 August 2026].
-•	• Department of Social Development. n.d. NPO Search. [online] Available at: https://www.dsd.gov.za/index.php/npo/search [Accessed 25 August 2026].
+-	JWD. n.d. Domain Checker | Check .co.za Domain Availability | JWD. [online] Available at: https://www.jwd.co.za/ [Accessed 14 August 2026].  
+-	Jessel Sookha. n.d. Colour Scheme Generator. [online] Available at: https://jesselsookha.github.io/colour-scheme-generator/ [Accessed 14 August 2026].  
+-	Domains.co.za. n.d. No Fixed Contract. [online] Available at: https://www.domains.co.za/knowledgebase/billing/no-fixed-contract/ [Accessed 14 August 2026]. 
+-	Department of Social Development. n.d. Nonprofit Organisations. [online] Available at: https://www.dsd.gov.za/index.php/npo/about-us [Accessed 25 August 2026].
+-	 - Department of Social Development. n.d. NPO Search. [online] Available at: https://www.dsd.gov.za/index.php/npo/search [Accessed 25 August 2026].
 	• forGood. n.d. Volunteer Opportunities. [online] Available at: https://www.forgood.co.za/ [Accessed 26 August 2026].
 	• Community Hours. n.d. Community Hours South Africa. [online] Available at: https://communityhours.co.za/ [Accessed 26 August 2026].
 	• EPIC Foundation. n.d. Volunteer Applications. [online] Available at: https://www.epicfoundation.org.za/web/volunteer-applications.asp [Accessed 27 August 2026].
@@ -387,16 +396,23 @@ Updated CSS styling for consistent website design.
 	• Unsplash. n.d. Unsplash License. [online] Available at: https://unsplash.com/license [Accessed 28 August 2026].
 	• Google. n.d. Google Fonts. [online] Available at: https://developers.google.com/fonts [Accessed 29 August 2026].
 
-	**FOR PART 2:**
+	
+- Skylight Views, 2025. Cultural celebration in Kano, Nigeria [electronic print]. Available at: Photo by Skylight Views from Pexels: https://www.pexels.com/photo/cultural-celebration-in-kano-nigeria-34735506/ [Accessed 1 October 2026].
 
-Skylight Views, 2025. Cultural celebration in Kano, Nigeria [electronic print]. Available at: Photo by Skylight Views from Pexels: https://www.pexels.com/photo/cultural-celebration-in-kano-nigeria-34735506/ [Accessed 1 October 2026].
+- Gariev, V., 2025. Volunteers cleaning riverbank to save environment [electronic print]. Available at: Photo by Vitaly Gariev from Pexels: https://www.pexels.com/photo/volunteers-cleaning-riverbank-to-save-environment-36713499/ [Accessed 2 October 2026].
 
-Gariev, V., 2025. Volunteers cleaning riverbank to save environment [electronic print]. Available at: Photo by Vitaly Gariev from Pexels: https://www.pexels.com/photo/volunteers-cleaning-riverbank-to-save-environment-36713499/ [Accessed 2 October 2026].
+- This And No Internet 25, 2025. Students attending class at international school [electronic print]. Available at: Photo by This And No Internet 25 from Pexels: https://www.pexels.com/photo/students-attending-class-at-international-school-29659894/ [Accessed 2 October 2026].
 
-This And No Internet 25, 2025. Students attending class at international school [electronic print]. Available at: Photo by This And No Internet 25 from Pexels: https://www.pexels.com/photo/students-attending-class-at-international-school-29659894/ [Accessed 2 October 2026].
+- Nothing Ahead, 2022. Close-up shot of a woman holding a plant [electronic print]. Available at: Photo by Nothing Ahead from Pexels: https://www.pexels.com/photo/close-up-shot-of-a-woman-holding-a-plant-7538371/ [Accessed 2 October 2026].
 
-Nothing Ahead, 2022. Close-up shot of a woman holding a plant [electronic print]. Available at: Photo by Nothing Ahead from Pexels: https://www.pexels.com/photo/close-up-shot-of-a-woman-holding-a-plant-7538371/ [Accessed 2 October 2026].
+- RDNE Stock project, 2024. Man in white crew neck T-shirt holding brown box [electronic print]. Available at: Photo by RDNE Stock project from Pexels: https://www.pexels.com/photo/man-in-white-crew-neck-t-shirt-holding-brown-box-6646886/ [Accessed 5 October 2026].
 
-RDNE Stock project, 2024. Man in white crew neck T-shirt holding brown box [electronic print]. Available at: Photo by RDNE Stock project from Pexels: https://www.pexels.com/photo/man-in-white-crew-neck-t-shirt-holding-brown-box-6646886/ [Accessed 5 October 2026].
+- RDNE Stock project, 2024. A woman standing beside the white van carrying a brown box [electronic print]. Available at: Photo by RDNE Stock project from Pexels: https://www.pexels.com/photo/a-woman-standing-beside-the-white-van-carrying-a-brown-box-6646893/ [Accessed 5 October 2026].
 
-RDNE Stock project, 2024. A woman standing beside the white van carrying a brown box [electronic print]. Available at: Photo by RDNE Stock project from Pexels: https://www.pexels.com/photo/a-woman-standing-beside-the-white-van-carrying-a-brown-box-6646893/ [Accessed 5 October 2026].
+- Google, n.d. Google Maps Embed API [online]. Available at: https://developers.google.com/maps/documentation/embed/embedding-map [Accessed 2 November 2026].
+- OpenAI. 2026. ChatGPT (GPT-6). [Large language model]. Available at: [https://chatgpt.com/c/6af1ad7a-a7c4-83ea-947c-7267b91a157f](https://chatgpt.com/c/6af1ad7a-a7c4-83ea-947c-7267b91a157f) [Accessed: 3 November 2026].
+  
+  - Jessel Sookha, 2026. WEDE2026 [Source code]. Available at: <https://github.com/jesselsookha/WEDE2026/blob/main/code/js/41-webpage-interactive.html> [Accessed 4 November 2026].
+
+- Jessel Sookha, 2026. WEDE2026 [Source code]. Available at: <https://github.com/jesselsookha/WEDE2026/blob/main/docs/36_seo_fundamentals.md> [Accessed 2 November 2026].
+- Jessel Sookha, 2026. WEDE2026 [Source code]. Available at: <https://github.com/jesselsookha/WEDE2026/blob/main/code/publish/44-the-whole-website-checklist.md> [Accessed 8 November 2026].
