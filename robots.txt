@@ -1,0 +1,13 @@
+# Allow all crawlers to access everything
+User-agent: *
+Allow: /
+
+# Block administration pages
+Disallow: /admin/
+
+# Block temporary content
+Disallow: /tmp/
+
+# Location of the sitemap
+
+Sitemap: https://yourdomain.co.za/sitemap.xml
