@@ -1586,3 +1586,75 @@ html {
 
 }
 
+/* 404 ERROR PAGE */
+
+.error-page {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f7f2;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.error-container {
+    max-width: 600px;
+    padding: 40px 25px;
+}
+
+.error-code {
+    font-size: 120px;
+    font-weight: bold;
+    color: #2e7d32;
+    margin: 0;
+}
+
+.error-container h2 {
+    font-size: 30px;
+    color: #263238;
+    margin-bottom: 15px;
+}
+
+.error-container p {
+    font-size: 17px;
+    line-height: 1.7;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+.error-button {
+    display: inline-block;
+    background-color: #2e7d32;
+    color: white;
+    text-decoration: none;
+    padding: 14px 28px;
+    border-radius: 6px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.error-button:hover {
+    background-color: #1b5e20;
+}
+
+/* Mobile responsiveness */
+
+@media (max-width: 600px) {
+
+    .error-code {
+        font-size: 85px;
+    }
+
+    .error-container h2 {
+        font-size: 23px;
+    }
+
+    .error-container p {
+        font-size: 15px;
+    }
+
+}
+

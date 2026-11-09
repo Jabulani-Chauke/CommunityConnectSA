@@ -10,4 +10,4 @@ Disallow: /tmp/
 
 # Location of the sitemap
 
-Sitemap: https://yourdomain.co.za/sitemap.xml
+Sitemap: https://jabulani-chauke.github.io/CommunityConnectSA/sitemap.xml
