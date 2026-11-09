@@ -1,30 +1,33 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://yourdomain.co.za/</loc>
+        <loc>https://jabulani-chauke.github.io/CommunityConnectSA/</loc>
     </url>
 
     <url>
-        <loc>https://yourdomain.co.za/pages/about.html</loc>
+        <loc>https://jabulani-chauke.github.io/CommunityConnectSA/pages/about.html</loc>
     </url>
 
     <url>
-        <loc>https://yourdomain.co.za/pages/services.html</loc>
+        <loc>https://jabulani-chauke.github.io/CommunityConnectSA/pages/services.html</loc>
     </url>
 
     <url>
-        <loc>https://yourdomain.co.za/pages/enquiry.html</loc>
+        <loc>https://jabulani-chauke.github.io/CommunityConnectSA/pages/enquiry.html</loc>
     </url>
 
     <url>
-        <loc>https://yourdomain.co.za/pages/contact.html</loc>
+        <loc>https://jabulani-chauke.github.io/CommunityConnectSA/pages/contact.html</loc>
     </url>
 
     <url>
-        <loc>https://yourdomain.co.za/pages/faq.html</loc>
+        <loc>https://jabulani-chauke.github.io/CommunityConnectSA/pages/faq.html</loc>
+    </url>
+
+    <url>
+        <loc>https://jabulani-chauke.github.io/CommunityConnectSA/pages/resources.html</loc>
     </url>
 
 </urlset>
